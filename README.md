@@ -1,15 +1,17 @@
 # Guess My Number
 
+Guess the Number is a web game made with HTML, CSS and JS
+
 ---
 
-![Project.Cover](/Firebase/Resumee/public/images/webapps/GuessMyNumber.png)
+<img src="https://notoapps.firebaseapp.com/images/portfolios/GuessMyNumber.png" width="600" height="400" />
 
 ---
 
 ### Download
 | Latest release | Latest development build |
 |----------------|--------------------------|
-| [![Noto](https://img.shields.io/badge/master-v1.0-green.svg)](Enlace a la version actual) | [![Noto](https://img.shields.io/badge/develop-v1.1+-blue.svg)](Enlace a la version en desarrollo) |
+| [![Noto](https://img.shields.io/badge/master-v1.0-green.svg)](https://github.com/NotoFederico/Guess-My-Number/tree/main) | [![Noto](https://img.shields.io/badge/develop-v1.1+-blue.svg)](https://github.com/NotoFederico/Guess-My-Number/tree/dev) |
 
 ---
 
@@ -24,15 +26,19 @@
 
 # 1. Introduction
 
+Guess the Number is a fun educational game that challenges kids to find a number based on greater than or less than feedback.
 
 ---
 
 # 2. How To Play
 
+Enter your guess and then see if your guess is too high or too low. Next, change your guess and try again! The fewer guesses you make, the higher score you will get!
 
 ---
 
 # 3. Game Link
+
+https://notoapps.firebaseapp.com/webapps/GuessMyNumber/index.html
 
 ---
 
